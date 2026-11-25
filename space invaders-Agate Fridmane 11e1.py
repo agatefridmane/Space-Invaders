@@ -112,7 +112,7 @@ bulletY_change = 3
 bullet_state = "ready"
 
 ### Rezultāts (Font)
-score = 49
+score = 0
 ## Lai pievienot savu fontu, lejupieladēt un ievietot projekta mapē
 font = pygame.font.Font('freesansbold.ttf', 32)
 textX = 10  
